@@ -1,0 +1,14 @@
+body {
+  background-color:white
+  ;
+}
+
+.paragraph{
+  text-transform:uppercase;
+  font-family: Arial;
+}
+
+.border{
+  border-style: solid;
+  border-width: 1px;
+}
