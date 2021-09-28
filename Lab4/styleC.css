@@ -1,0 +1,28 @@
+body {
+  background-color:white;
+}
+.box {
+  padding: 0px 0px 0px 0px;
+  background-color: green;
+}
+.box2{
+  border: black 3px dashed;
+  margin: 10px;
+}
+.bottom{
+  color: purple;
+  text-align: left;
+  background-color: green; 
+}
+.p1{
+  font-size: 18px;
+  color: red;
+  margin: 20px;
+  padding: 20px;
+}
+.p2{
+  font-size: 18px;
+  color: blue;
+  margin: 20px;
+  padding: 20px;
+}

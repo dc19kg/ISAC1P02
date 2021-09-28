@@ -1,0 +1,41 @@
+body {
+  background-color:white;
+}
+.box {
+  height: 300px;
+  margin: 10px 10px 10px 10px;
+  border: purple 3px dashed;
+}
+
+.p1{
+  text-align: inherit bottom;
+  text-align: center;
+  font-size: 16px;
+  color: black;
+}
+
+.p2{
+  text-align: center;
+  font-size: 10px;
+  color: green;
+  margin: 10px;
+}
+
+.p3{
+  font-size: 32px;
+  color: orange;
+}
+
+.p4{
+  text-align: right;
+  font-size: 10px;
+  color: purple;
+}
+
+.yellow{
+  color: yellow;
+}
+
+.raise{
+  color: red;
+}
