@@ -1,0 +1,39 @@
+body{
+  background-color: white;
+  margin: 0px;
+}
+
+#wrapper{
+  margin: 5px;
+  background-color: green;
+  height: 1000px;
+}
+
+#box1{
+  float: left;
+  margin-left: 450px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  background-color: blue;
+  height: 300px;
+  width: 300px;
+}
+
+#box2{
+  float: right;
+  margin-right: 450px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  background-color: red;
+  height: 300px;
+  width: 300px;
+}
+
+#box3{
+  float: left;
+  margin-top: 0px;
+  margin-left: 850px;
+  background-color: yellow;
+  height: 300px;
+  width: 300px;
+}
