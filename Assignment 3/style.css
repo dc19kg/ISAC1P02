@@ -1,0 +1,60 @@
+body{
+  background-color: red;
+}
+
+#wrapper{
+  width: 2000px;
+  margin:0 auto;
+}
+
+#logo{
+  margin-left: 150px;
+  margin-top: 15px;
+  z-index: 0;
+  position: absolute;
+  height: 150px;
+  width: 150px;
+}
+
+#search{
+  z-index: 0;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 700px;
+  height: 160px;
+}
+
+#car{
+  height: 150px;
+  width: 200px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+h1{
+  height: 75px;
+  color: white;
+  padding: 50px;
+  text-align: right;
+  font-size: 36px;
+  background-color: blue;
+  border: solid black 3px;
+  margin-bottom: 0px;
+  float: auto;
+}
+
+#filter{
+  background-color: white;
+  border: solid 3px;
+  height: 750px;
+  float: left;
+  width: 200px;
+}
+
+#imgs{
+  background-color: white;
+  border: solid 3px;
+  height: 750px;
+  float: right;
+  width: 1788px;
+}
