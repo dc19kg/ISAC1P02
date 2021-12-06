@@ -1,0 +1,58 @@
+body{
+  background-color: #0047ab;
+}
+
+p{
+  background-color: #ffe135;
+  border: black 5px solid;
+  padding: 20px;
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  margin: auto;
+  display: block;
+  width: 500px;
+  margin-bottom: 100px;
+}
+
+#jeopardyGuy{
+  border: black 5px solid;
+  position: absolute;
+  top: 250px;
+  left: 40px;
+  bottom: 20px;
+}
+
+#myself{
+  border: black 5px solid;
+  position: absolute;
+  top: 250px;
+  right: 40px;
+  bottom: 20px;
+  width: 600px;
+  height: 622px;
+}
+
+#intro{
+  background-color: #ffe135;
+  border: black 5px solid;
+  padding: 20px;
+  color: black;
+  text-align: center;
+  font-size: 48px;
+  margin-bottom: 100px;
+}
+
+#pageNav{
+  background-color: #ffe135;
+  border: black 5px solid;
+  padding: 20px;
+  color: black;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 100px;
+  margin: auto;
+  display: block;
+  width: 150px;
+  margin-bottom: 100px;
+}

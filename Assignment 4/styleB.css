@@ -1,0 +1,34 @@
+body{
+  background-color: #0047ab;
+}
+p{
+  background-color: #ffe135;
+  border: black 5px solid;
+  padding: 20px;
+  color: black;
+  text-align: left;
+  font-size: 20px;
+  margin-bottom: 100px;
+  margin-left: 20px;
+  width: 800px;
+}
+
+#me{
+  background-color: #ffe135;
+  border: black 5px solid;
+  padding: 20px;
+  color: black;
+  text-align: center;
+  font-size: 48px;
+  margin-bottom: 60px;
+}
+
+#baseball{
+  border: black 5px solid;
+  position: absolute;
+  top: 200px;
+  right: 40px;
+  bottom: 20px;
+  width: 800px;
+  height: 750px;
+}

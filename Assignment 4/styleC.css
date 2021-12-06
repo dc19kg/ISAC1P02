@@ -1,0 +1,45 @@
+body{
+  background-color: #2a52be;
+}
+
+button{
+  background-color: #0047ab;
+  border: black 5px solid;
+  padding: 20px;
+  color: #ffe135;
+  text-align: center;
+  font-size: 24px;
+  margin-left: 80px;
+  margin-bottom: 50px;
+  width: 300px;
+}
+a{
+  float: right;
+  margin-right: 50px;
+  color: #ffe135;
+  font-size: 30px;
+}
+
+#money{
+  margin-left: 50px;
+  color: #ffe135;
+  font-size: 30px;
+  float: left;
+}
+
+#moneyOutput{
+  margin-left: 50px;
+  color: #ffe135;
+  font-size: 30px;
+  float: left;
+}
+
+#jeopardy{
+  background-color: #0047ab;
+  border: black 5px solid;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  font-size: 48px;
+  margin-bottom: 50px;
+}
